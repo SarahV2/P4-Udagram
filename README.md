@@ -3,10 +3,14 @@
 Udagram is a simple application for sharing and viewing images. The main purpose of this project is to deploy and host a full stack app.
 
 
-
 ### Dependencies
 
+[Application Dependencies](Application_dependencies.md)
 
+## Infrastructure 
+
+
+## Pipeline
 
 
 ## Testing
@@ -26,11 +30,6 @@ Unit tests are using the Jasmine Framework.
 
 The e2e tests are using Protractor and Jasmine.
 
-## Built With
-
-- [Angular](https://angular.io/) - Single Page Application Framework
-- [Node](https://nodejs.org) - Javascript Runtime
-- [Express](https://expressjs.com/) - Javascript API Framework
 
 ## License
 
